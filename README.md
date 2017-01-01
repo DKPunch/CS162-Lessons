@@ -1,2 +1,3 @@
-# CS162-Lessons
-Small section for helpful lessons from a previous Computer Science course.
+# CS162 Lessons
+
+Small section of helpful lessons from a previous Computer Science course.
