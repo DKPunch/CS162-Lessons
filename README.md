@@ -1,3 +1,3 @@
 # CS162 Lessons
 
-Small section of helpful lessons from a previous Computer Science course.
+A collection of helpful lessons and algorithms from a previous Computer Science course.
