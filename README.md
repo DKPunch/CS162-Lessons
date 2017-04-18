@@ -1,3 +1,3 @@
-# CS162 Lessons
+# CS Beginners Course
 
-A collection of helpful lessons and algorithms from a previous Computer Science course.
+A collection of helpful lessons and algorithms from my 2nd term of studying Computer Science.
